@@ -1,0 +1,50 @@
+Region,Description,Problem,Street Name,Street Type,Pipe Age,Diameter,Sensor Reading
+West,No visible issue,Leakage,Birch,Lane,48,41.64557396,1.383240107
+West,No visible issue,Contamination,Ash,Lane,30,32.38233688,5.232232309
+South,Pipe burst,Blockage,Willow,Lane,32,34.35475915,6.167123585
+North,Pipe burst,Pressure drop,Birch,Lane,22,46.2393825,8.090598118
+West,Continuous leakage,Blockage,Birch,Drive,39,47.00288083,7.400221902
+North,Low pressure,Blockage,Pine,Street,1,28.43106482,3.694315783
+West,Water pooling,Blockage,Birch,Place,50,36.04796199,7.878718472
+West,Pipe burst,Unknown,Elm,Place,2,11.03659785,7.000654341
+East,Continuous leakage,Pressure drop,Cedar,Place,23,24.06866039,4.536020727
+North,Pipe burst,Contamination,Ash,Court,38,24.24296045,5.440761414
+West,Continuous leakage,Blockage,Ash,Terrace,26,33.73785566,0.209494829
+West,Water pooling,Unknown,Spruce,Way,42,44.95195909,5.074537964
+Central,Low pressure,Leakage,Oak,Drive,50,41.00310247,2.160421326
+West,Pipe burst,Blockage,Willow,Place,5,35.77022863,1.194240416
+South,Pipe burst,Pressure drop,Elm,Drive,48,30.26811207,9.60059606
+East,Continuous leakage,Blockage,Birch,Boulevard,30,46.98779105,6.70292622
+North,Pipe burst,Blockage,Ash,Terrace,37,35.26547062,1.819896395
+West,Low pressure,Unknown,Elm,Drive,13,41.23075298,9.170557605
+East,Water pooling,Contamination,Maple,Drive,12,25.12929529,8.908960451
+East,Pipe burst,Blockage,Oak,Place,34,34.7732824,8.779770947
+West,Continuous leakage,Blockage,Cedar,Court,29,45.79136821,4.01395098
+Central,Continuous leakage,Pressure drop,Willow,Street,10,32.52421652,7.285198843
+South,Continuous leakage,Pressure drop,Chestnut,Lane,7,19.72831388,6.50748259
+South,Low pressure,Contamination,Birch,Way,16,40.31127515,8.08389392
+West,No visible issue,Unknown,Cedar,Lane,40,11.89393066,5.313312687
+West,Water pooling,Blockage,Chestnut,Place,48,48.70802414,3.755706838
+North,Low pressure,Blockage,Birch,Place,13,31.91387527,0.19412336
+East,Pipe burst,Contamination,Oak,Boulevard,7,40.22172973,1.850667922
+Central,Continuous leakage,Blockage,Willow,Place,25,8.074987373,8.083205001
+East,Pipe burst,Blockage,Ash,Street,26,35.56858012,4.66141315
+North,Pipe burst,Contamination,Maple,Terrace,46,34.96245175,8.244178936
+Central,Water pooling,Unknown,Cedar,Way,40,22.70820328,5.079516867
+Central,Continuous leakage,Blockage,Ash,Court,15,46.3624343,1.705589027
+West,No visible issue,Pressure drop,Oak,Terrace,26,10.1560278,8.363583224
+West,Low pressure,Leakage,Maple,Lane,16,37.04129301,6.317221273
+South,No visible issue,Contamination,Oak,Lane,8,13.14471056,0.934216256
+West,No visible issue,Contamination,Maple,Way,47,21.01805511,8.438803363
+Central,Continuous leakage,Contamination,Cedar,Street,7,36.21290571,1.609047147
+South,Low pressure,Unknown,Willow,Lane,6,15.46912948,8.903488088
+North,Water pooling,Contamination,Chestnut,Road,18,18.18590025,2.906813279
+Central,Water pooling,Contamination,Willow,Terrace,3,5.282755953,1.647746197
+West,Continuous leakage,Unknown,Pine,Way,6,25.64597491,1.407066606
+West,Low pressure,Contamination,Cedar,Drive,49,49.67546375,6.047358699
+East,No visible issue,Leakage,Elm,Place,42,11.31816381,4.63143438
+North,Water pooling,Unknown,Chestnut,Place,18,41.07870498,5.546438058
+West,Water pooling,Pressure drop,Chestnut,Place,9,9.283756569,4.127242958
+North,Low pressure,Unknown,Birch,Boulevard,1,8.395440378,9.228043534
+Central,No visible issue,Leakage,Spruce,Way,23,34.66635353,9.713564041
+South,Water pooling,Blockage,Willow,Road,44,5.730523481,2.518402617
